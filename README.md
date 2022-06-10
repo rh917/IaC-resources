@@ -60,3 +60,4 @@ This repository contains various resources and resource links to better understa
 | [Link](https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/) | Getting Started with WSL | Using Windows Subsystem for Linux on Windows workstations |
 | [Link](https://adamtheautomator.com/windows-subsystem-for-linux/) | Ultimate Guide to WSL | WSL Configuration and usage tutorial
 | [Link](https://github.com/starkfell/100DaysOfIaC) | 100 Days of IaC | Practice Exercises using IaC |
+| [Link](https://devhints.io/) | Developer Cheat Sheets | Code and Scripting Cheatsheets/Quick Reference Guides |
