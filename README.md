@@ -28,6 +28,7 @@ This repository contains various resources and resource links to better understa
 | -- | -- | -- |
 | [Link](https://www.terraform.io/intro) | Terraform Documentation | Terraform Docs Site |
 | [Link](https://learn.hashicorp.com/terraform) | Terraform Tutorials | Terraform Tutorials |
+| [Link](https://registry.terraform.io/browse/providers) | Terraform Registry | Directory of all vendors that have supported Terraform Providers |
 | [Link](https://itnext.io/infrastructure-as-code-iac-with-terraform-azure-devops-f8cd022a3341) | Terraform w/ Azure DevOps | Terraform user tutorial using Terraform with Azure DevOps Repos |
 | [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep) | Azure Bicep Documentation | Azure Overview of Bicep |
 
