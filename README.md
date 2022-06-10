@@ -61,3 +61,5 @@ This repository contains various resources and resource links to better understa
 | [Link](https://adamtheautomator.com/windows-subsystem-for-linux/) | Ultimate Guide to WSL | WSL Configuration and usage tutorial
 | [Link](https://github.com/starkfell/100DaysOfIaC) | 100 Days of IaC | Practice Exercises using IaC |
 | [Link](https://devhints.io/) | Developer Cheat Sheets | Code and Scripting Cheatsheets/Quick Reference Guides |
+| [Link](https://github.com/scottslowe/learning-tools) | Scott Lowe's Learning Tools Repo | Repository for learning about various technolgies |
+| [Link](https://www.hanselman.com/blog/category) | Scott Hansleman's Blog | Technical Write-Ups on various topics |
