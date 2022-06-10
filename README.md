@@ -3,7 +3,7 @@
 <br />
 <div align="center"><a href="https://he-equipment.com/"><img src="./_assets/images/IaC.png" alt="HEES Logo" height="150"></a>
 
-<h2 align="center">Learning Resources</h2>
+<h3 align="center">Learning Resources</h3>
 <p align="center">Infrastructure as Code</p>
 </div>
 
